@@ -88,7 +88,7 @@ The dataset contains financial and demographic information of applicants:
 ---
 
 ## 📁 Project Structure
----
+
 loan-approval-prediction-ml/
 │
 ├── data/
@@ -121,4 +121,3 @@ loan-approval-prediction-ml/
 ├── README.md          ❗ (add if not yet)
 ├── .gitignore
 └── LICENSE
----
